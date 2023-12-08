@@ -1,0 +1,6 @@
+import pypsa
+import xarray
+import pandas
+
+for i in [1,e]
+	plot(x)
